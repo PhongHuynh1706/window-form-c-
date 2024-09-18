@@ -1,0 +1,10 @@
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\calculator1\bin\Debug\calculator1.exe.config
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\calculator1\bin\Debug\calculator1.exe
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\calculator1\bin\Debug\calculator1.pdb
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\calculator1\obj\Debug\calculator1.csproj.AssemblyReference.cache
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\calculator1\obj\Debug\calculator1.Form1.resources
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\calculator1\obj\Debug\calculator1.Properties.Resources.resources
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\calculator1\obj\Debug\calculator1.csproj.GenerateResource.cache
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\calculator1\obj\Debug\calculator1.csproj.CoreCompileInputs.cache
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\calculator1\obj\Debug\calculator1.exe
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\calculator1\obj\Debug\calculator1.pdb
