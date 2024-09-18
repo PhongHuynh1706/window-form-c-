@@ -1,0 +1,16 @@
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\bin\Debug\net8.0-windows\picture viewer.exe
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\bin\Debug\net8.0-windows\picture viewer.deps.json
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\bin\Debug\net8.0-windows\picture viewer.runtimeconfig.json
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\bin\Debug\net8.0-windows\picture viewer.dll
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\bin\Debug\net8.0-windows\picture viewer.pdb
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\obj\Debug\net8.0-windows\picture_viewer.Form1.resources
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\obj\Debug\net8.0-windows\picture viewer.csproj.GenerateResource.cache
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\obj\Debug\net8.0-windows\picture viewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\obj\Debug\net8.0-windows\picture viewer.AssemblyInfoInputs.cache
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\obj\Debug\net8.0-windows\picture viewer.AssemblyInfo.cs
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\obj\Debug\net8.0-windows\picture viewer.csproj.CoreCompileInputs.cache
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\obj\Debug\net8.0-windows\picture viewer.dll
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\obj\Debug\net8.0-windows\refint\picture viewer.dll
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\obj\Debug\net8.0-windows\picture viewer.pdb
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\obj\Debug\net8.0-windows\picture viewer.genruntimeconfig.cache
+D:\học đi bro\lập trình mạng căn bản\bt1\23521162\picture viewer\obj\Debug\net8.0-windows\ref\picture viewer.dll
